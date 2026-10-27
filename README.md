@@ -1,6 +1,6 @@
 # DSRE-LLM
 
-Code for **Dual-Layer Semantic Alignment with Large Language Models for Distantly Supervised Relation Extraction**.
+Code for **Dual-Level Semantic Alignment with Large Language Models for Distantly Supervised Relation Extraction**.
 
 DSRE-LLM fine-tunes an LLM encoder (Qwen3-8B with LoRA) for distantly supervised relation extraction and combines four parts:
 
