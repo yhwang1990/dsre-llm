@@ -1,0 +1,3312 @@
+{
+  "after a work by": {
+    "domain": [
+      "WORK"
+    ],
+    "range": [
+      "PERSON",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P1877",
+    "wd_domain_classes": [
+      "Q386724"
+    ],
+    "wd_range_classes": [
+      "Q5",
+      "Q127843",
+      "Q43229",
+      "Q16017119"
+    ]
+  },
+  "applies to jurisdiction": {
+    "domain": [
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "LOCATION",
+      "ETHNICITY"
+    ],
+    "range": [
+      "LOCATION",
+      "ORGANIZATION",
+      "EVENT"
+    ],
+    "source": "wikidata:P1001",
+    "wd_domain_classes": [
+      "Q1151067",
+      "Q895526",
+      "Q80071",
+      "Q43229",
+      "Q216353",
+      "Q4164871",
+      "Q18616576",
+      "Q1140371",
+      "Q15617994",
+      "Q15097084",
+      "Q30634609",
+      "Q43306178",
+      "Q3917681",
+      "Q372690",
+      "Q213283",
+      "Q7843791",
+      "Q35535",
+      "Q8161",
+      "Q7748",
+      "Q42470",
+      "Q2385804",
+      "Q2135465",
+      "Q473972",
+      "Q40357",
+      "Q21004260",
+      "Q1864008",
+      "Q14659",
+      "Q686822",
+      "Q191072",
+      "Q15238777",
+      "Q1530022",
+      "Q618779",
+      "Q65554936",
+      "Q1445650",
+      "Q105985",
+      "Q8142",
+      "Q4992061",
+      "Q176799",
+      "Q329525",
+      "Q214995",
+      "Q317557",
+      "Q102496",
+      "Q689044",
+      "Q56061",
+      "Q7397",
+      "Q20045456",
+      "Q1572600",
+      "Q567696",
+      "Q905765",
+      "Q223729",
+      "Q321839",
+      "Q13406463",
+      "Q21451536",
+      "Q187588",
+      "Q1456832",
+      "Q13582682",
+      "Q166140",
+      "Q14623646",
+      "Q99045339",
+      "Q1505023",
+      "Q10541491",
+      "Q7406919",
+      "Q769696",
+      "Q3150005",
+      "Q41487",
+      "Q63705939",
+      "Q334453",
+      "Q9261468",
+      "Q481182",
+      "Q189409",
+      "Q13406554",
+      "Q119974171",
+      "Q19571328",
+      "Q8187769",
+      "Q367293",
+      "Q22222786",
+      "Q67011165",
+      "Q19386377",
+      "Q15275719",
+      "Q104587594",
+      "Q61005213",
+      "Q2620826",
+      "Q74817647",
+      "Q58142240",
+      "Q131866763",
+      "Q135419756",
+      "Q22706",
+      "Q51335349"
+    ],
+    "wd_range_classes": [
+      "Q56061",
+      "Q1048835",
+      "Q82794",
+      "Q3895768",
+      "Q2882257",
+      "Q3918",
+      "Q7188",
+      "Q44782",
+      "Q5982983",
+      "Q6087062",
+      "Q13414953",
+      "Q7278",
+      "Q57662985",
+      "Q31728",
+      "Q2221906",
+      "Q61005213",
+      "Q4358176",
+      "Q43229",
+      "Q155076",
+      "Q8187769",
+      "Q192611",
+      "Q166140",
+      "Q44554",
+      "Q1914636"
+    ]
+  },
+  "architect": {
+    "domain": [
+      "LOCATION",
+      "EVENT",
+      "PERSON",
+      "WORK"
+    ],
+    "range": [
+      "ORGANIZATION",
+      "PERSON"
+    ],
+    "source": "wikidata:P84",
+    "wd_domain_classes": [
+      "Q811979",
+      "Q22652",
+      "Q123705",
+      "Q294440",
+      "Q1497375",
+      "Q25447168",
+      "Q811430",
+      "Q391414",
+      "Q1074523",
+      "Q2463098",
+      "Q5",
+      "Q486972",
+      "Q18247357",
+      "Q19603939"
+    ],
+    "wd_range_classes": [
+      "Q783794",
+      "Q16334295",
+      "Q5",
+      "Q4830453",
+      "Q43229"
+    ]
+  },
+  "characters": {
+    "domain": [
+      "WORK"
+    ],
+    "range": [
+      "PERSON",
+      "OTHER"
+    ],
+    "source": "wikidata:P674",
+    "wd_domain_classes": [
+      "Q386724",
+      "Q15306849",
+      "Q1185607",
+      "Q421744",
+      "Q17489659",
+      "Q1046315",
+      "Q47451145",
+      "Q1406161"
+    ],
+    "wd_range_classes": [
+      "Q215627",
+      "Q95074",
+      "Q14514600",
+      "Q622852",
+      "Q20830276",
+      "Q15706911",
+      "Q4271324",
+      "Q2607197",
+      "Q13002315",
+      "Q21192438",
+      "Q21070568",
+      "Q16334295",
+      "Q1913135",
+      "Q1062345",
+      "Q25810847",
+      "Q2239243",
+      "Q24334299",
+      "Q3658341",
+      "Q24337101"
+    ]
+  },
+  "child": {
+    "domain": [
+      "PERSON",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "OTHER"
+    ],
+    "source": "wikidata:P40",
+    "wd_domain_classes": [
+      "Q215627",
+      "Q95074",
+      "Q4271324",
+      "Q729",
+      "Q178885",
+      "Q24334299",
+      "Q21070598",
+      "Q16979650",
+      "Q21070568",
+      "Q13002315",
+      "Q3046146",
+      "Q219160",
+      "Q207174",
+      "Q2135501",
+      "Q75855169",
+      "Q4886",
+      "Q115537581",
+      "Q795052",
+      "Q5"
+    ],
+    "wd_range_classes": [
+      "Q5",
+      "Q95074",
+      "Q4271324",
+      "Q729",
+      "Q178885",
+      "Q24334299",
+      "Q21070598",
+      "Q16979650",
+      "Q21070568",
+      "Q13002315",
+      "Q207174",
+      "Q2135501",
+      "Q21191150",
+      "Q75855169",
+      "Q4886",
+      "Q64520857",
+      "Q115537581",
+      "Q795052"
+    ]
+  },
+  "competition class": {
+    "domain": [
+      "EVENT",
+      "ORGANIZATION",
+      "WORK"
+    ],
+    "range": [
+      "PROFESSION",
+      "ORGANIZATION",
+      "EVENT"
+    ],
+    "source": "wikidata:P2094",
+    "wd_domain_classes": [
+      "Q13406554",
+      "Q4438121",
+      "Q768186",
+      "Q1744559",
+      "Q42889",
+      "Q29048322",
+      "Q1241356",
+      "Q16510064",
+      "Q16334295",
+      "Q15229207",
+      "Q18608583",
+      "Q107285679",
+      "Q46135307",
+      "Q29791211",
+      "Q137424753",
+      "Q63981919"
+    ],
+    "wd_range_classes": [
+      "Q1744559",
+      "Q4369513",
+      "Q2312410",
+      "Q31629",
+      "Q106594809",
+      "Q2385804",
+      "Q22999537",
+      "Q16510064",
+      "Q1955280"
+    ]
+  },
+  "composer": {
+    "domain": [
+      "WORK"
+    ],
+    "range": [
+      "PERSON",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P86",
+    "wd_domain_classes": [
+      "Q386724",
+      "Q17489659",
+      "Q24887304",
+      "Q2188189"
+    ],
+    "wd_range_classes": [
+      "Q5",
+      "Q59755569",
+      "Q215380",
+      "Q117246174",
+      "Q117349473",
+      "Q54982412"
+    ]
+  },
+  "constellation": {
+    "domain": [
+      "EVENT",
+      "LOCATION"
+    ],
+    "range": [
+      "LOCATION"
+    ],
+    "source": "wikidata:P59",
+    "wd_domain_classes": [
+      "Q6999",
+      "Q751989",
+      "Q280855",
+      "Q15831598"
+    ],
+    "wd_range_classes": [
+      "Q8928"
+    ]
+  },
+  "contains administrative territorial entity": {
+    "domain": [
+      "LOCATION"
+    ],
+    "range": [
+      "LOCATION"
+    ],
+    "source": "wikidata:P150",
+    "wd_domain_classes": [
+      "Q56061",
+      "Q1048835",
+      "Q15042037",
+      "Q3299260",
+      "Q64034456",
+      "Q82794"
+    ],
+    "wd_range_classes": [
+      "Q56061",
+      "Q64034456"
+    ]
+  },
+  "country": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "LOCATION",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P17+permissive-domain",
+    "wd_domain_classes": [],
+    "wd_range_classes": [
+      "Q3624078",
+      "Q1151405",
+      "Q2577883",
+      "Q15239622",
+      "Q148837",
+      "Q1250464",
+      "Q3895768",
+      "Q28171280",
+      "Q59281",
+      "Q6256",
+      "Q161243",
+      "Q170156",
+      "Q3024240",
+      "Q7275",
+      "Q1145276",
+      "Q43702",
+      "Q182547",
+      "Q48349",
+      "Q1896989",
+      "Q15304003",
+      "Q3238337",
+      "Q1620908",
+      "Q253836",
+      "Q5982983",
+      "Q10711424",
+      "Q678116"
+    ]
+  },
+  "country of citizenship": {
+    "domain": [
+      "PERSON"
+    ],
+    "range": [
+      "LOCATION",
+      "ETHNICITY",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P27",
+    "wd_domain_classes": [
+      "Q5",
+      "Q21070598",
+      "Q95074",
+      "Q15632617",
+      "Q217438",
+      "Q16334295"
+    ],
+    "wd_range_classes": [
+      "Q96196009",
+      "Q57662985",
+      "Q6266",
+      "Q161243",
+      "Q148837",
+      "Q2775969",
+      "Q231002",
+      "Q170156",
+      "Q6256",
+      "Q3024240",
+      "Q15239622",
+      "Q1145276",
+      "Q133442",
+      "Q1048835",
+      "Q3624078",
+      "Q48349",
+      "Q42138",
+      "Q133156",
+      "Q107390"
+    ]
+  },
+  "country of origin": {
+    "domain": [
+      "ETHNICITY",
+      "WORK",
+      "LOCATION",
+      "EVENT"
+    ],
+    "range": [
+      "LOCATION",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P495",
+    "wd_domain_classes": [
+      "Q2424752",
+      "Q16334295",
+      "Q2095",
+      "Q187931",
+      "Q1778821",
+      "Q264965",
+      "Q38829",
+      "Q2531956",
+      "Q2239243",
+      "Q1826286",
+      "Q33384",
+      "Q60733114",
+      "Q483394",
+      "Q4533081",
+      "Q2198855",
+      "Q1813494",
+      "Q350453",
+      "Q11410",
+      "Q349",
+      "Q28877",
+      "Q19861951",
+      "Q13002315",
+      "Q8192",
+      "Q4113741",
+      "Q59544",
+      "Q82821",
+      "Q327496",
+      "Q1485500",
+      "Q17558136",
+      "Q2235308",
+      "Q1824109",
+      "Q223557",
+      "Q14897293",
+      "Q130989",
+      "Q384748",
+      "Q1969448",
+      "Q251777",
+      "Q20203727",
+      "Q17489659",
+      "Q31629",
+      "Q49371",
+      "Q131569",
+      "Q321839",
+      "Q1572600",
+      "Q386724",
+      "Q38672",
+      "Q117009251",
+      "Q42298422",
+      "Q7257",
+      "Q3241972",
+      "Q862597",
+      "Q188451",
+      "Q2401485",
+      "Q16686448",
+      "Q8187769",
+      "Q1039303",
+      "Q66661745",
+      "Q1445650",
+      "Q16510064",
+      "Q17376908",
+      "Q110295396",
+      "Q15831596",
+      "Q24533670",
+      "Q101352",
+      "Q202444",
+      "Q4504495"
+    ],
+    "wd_range_classes": [
+      "Q6256",
+      "Q7275",
+      "Q3502482",
+      "Q4120211",
+      "Q5107",
+      "Q1145276",
+      "Q3024240",
+      "Q161243",
+      "Q15239622",
+      "Q7840353",
+      "Q17334923",
+      "Q19953632",
+      "Q1072012",
+      "Q82794"
+    ]
+  },
+  "crosses": {
+    "domain": [
+      "LOCATION"
+    ],
+    "range": [
+      "LOCATION"
+    ],
+    "source": "wikidata:P177",
+    "wd_domain_classes": [
+      "Q811430",
+      "Q25653",
+      "Q15720793",
+      "Q18984099",
+      "Q12743",
+      "Q62059481",
+      "Q10816681",
+      "Q13409250",
+      "Q133056"
+    ],
+    "wd_range_classes": [
+      "Q618123"
+    ]
+  },
+  "developer": {
+    "domain": [
+      "EVENT",
+      "WORK",
+      "ORGANIZATION",
+      "LOCATION"
+    ],
+    "range": [
+      "PERSON",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P178",
+    "wd_domain_classes": [
+      "Q3249551",
+      "Q317623",
+      "Q58778",
+      "Q1979154",
+      "Q1630279",
+      "Q116741534",
+      "Q151885",
+      "Q63437139",
+      "Q10929058",
+      "Q853614",
+      "Q241317",
+      "Q47146",
+      "Q16686448",
+      "Q4886",
+      "Q620615",
+      "Q20819677",
+      "Q66661745",
+      "Q17176533",
+      "Q223557",
+      "Q98924064",
+      "Q13600188",
+      "Q179661",
+      "Q180703",
+      "Q141245227",
+      "Q134612820",
+      "Q4485156"
+    ],
+    "wd_range_classes": [
+      "Q5",
+      "Q43229",
+      "Q177634"
+    ]
+  },
+  "director": {
+    "domain": [
+      "EVENT",
+      "WORK"
+    ],
+    "range": [
+      "PERSON"
+    ],
+    "source": "wikidata:P57",
+    "wd_domain_classes": [
+      "Q43099500",
+      "Q11424",
+      "Q15416",
+      "Q24856",
+      "Q7889",
+      "Q25379",
+      "Q2431196",
+      "Q26204053",
+      "Q14623351",
+      "Q106046707",
+      "Q58483083",
+      "Q15306849",
+      "Q35140",
+      "Q10688145",
+      "Q116779426",
+      "Q2635894",
+      "Q24634210",
+      "Q5474871",
+      "Q17538722",
+      "Q4006",
+      "Q106833",
+      "Q122731938"
+    ],
+    "wd_range_classes": [
+      "Q5",
+      "Q14073567",
+      "Q3046146"
+    ]
+  },
+  "distributor": {
+    "domain": [
+      "WORK",
+      "ORGANIZATION",
+      "EVENT"
+    ],
+    "range": [
+      "WORK",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P750",
+    "wd_domain_classes": [
+      "Q386724",
+      "Q42848",
+      "Q18127",
+      "Q2031291",
+      "Q2085381",
+      "Q116741534",
+      "Q84324516",
+      "Q19307174",
+      "Q1762059"
+    ],
+    "wd_range_classes": [
+      "Q24229398",
+      "Q19307174",
+      "Q72588",
+      "Q35127",
+      "Q30899001",
+      "Q55341040",
+      "Q24634210",
+      "Q1002697",
+      "Q2085381",
+      "Q18534542",
+      "Q859965",
+      "Q84324516",
+      "Q121717782",
+      "Q12308700"
+    ]
+  },
+  "father": {
+    "domain": [
+      "PERSON",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "OTHER"
+    ],
+    "source": "wikidata:P22",
+    "wd_domain_classes": [
+      "Q5",
+      "Q16979650",
+      "Q95074",
+      "Q4271324",
+      "Q729",
+      "Q21070598",
+      "Q178885",
+      "Q284851",
+      "Q75855169",
+      "Q64520857",
+      "Q64643615",
+      "Q21070568",
+      "Q13002315",
+      "Q207174",
+      "Q2135501",
+      "Q14514600",
+      "Q2345820",
+      "Q795052",
+      "Q24334685"
+    ],
+    "wd_range_classes": [
+      "Q215627",
+      "Q95074",
+      "Q4271324",
+      "Q729",
+      "Q21070598",
+      "Q21070568",
+      "Q13002315",
+      "Q795052"
+    ]
+  },
+  "field of work": {
+    "domain": [
+      "PERSON",
+      "OTHER",
+      "INDUSTRY",
+      "ORGANIZATION",
+      "EVENT",
+      "LOCATION",
+      "WORK"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P101+permissive-range",
+    "wd_domain_classes": [
+      "Q5",
+      "Q106559804",
+      "Q16334295",
+      "Q729",
+      "Q4164871",
+      "Q95074",
+      "Q215627",
+      "Q1002697",
+      "Q14623646",
+      "Q170584",
+      "Q8148",
+      "Q33506",
+      "Q618779",
+      "Q114834437",
+      "Q7406919",
+      "Q13473501",
+      "Q4271324",
+      "Q735",
+      "Q68773434",
+      "Q132241",
+      "Q1003030",
+      "Q546113",
+      "Q702269",
+      "Q24354",
+      "Q288514",
+      "Q464980",
+      "Q13226383",
+      "Q13442814",
+      "Q737498",
+      "Q18918145",
+      "Q571",
+      "Q21481766",
+      "Q11826511",
+      "Q15275719",
+      "Q42240",
+      "Q8513",
+      "Q17537576",
+      "Q1497649",
+      "Q268592",
+      "Q3533467",
+      "Q21070568",
+      "Q126152628",
+      "Q151885",
+      "Q122460187",
+      "Q10383930",
+      "Q2133344",
+      "Q40218",
+      "Q108117266",
+      "Q24902509",
+      "Q820655",
+      "Q431289"
+    ],
+    "wd_range_classes": []
+  },
+  "followed by": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P156+permissive-domain+permissive-range",
+    "wd_domain_classes": [],
+    "wd_range_classes": []
+  },
+  "follows": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P155+permissive-domain+permissive-range",
+    "wd_domain_classes": [],
+    "wd_range_classes": []
+  },
+  "genre": {
+    "domain": [
+      "WORK",
+      "EVENT",
+      "PERSON",
+      "ORGANIZATION",
+      "PROFESSION"
+    ],
+    "range": [
+      "LOCATION",
+      "PROFESSION",
+      "WORK"
+    ],
+    "source": "wikidata:P136",
+    "wd_domain_classes": [
+      "Q386724",
+      "Q17489659",
+      "Q11424",
+      "Q15416",
+      "Q378427",
+      "Q5",
+      "Q215380",
+      "Q18127",
+      "Q2088357",
+      "Q1141470",
+      "Q10648343",
+      "Q476300",
+      "Q15116915",
+      "Q1047299",
+      "Q5519943",
+      "Q742421",
+      "Q16686448",
+      "Q11410",
+      "Q16334295",
+      "Q28640",
+      "Q12737077",
+      "Q24634210",
+      "Q7725634",
+      "Q483394",
+      "Q868557",
+      "Q1364556",
+      "Q571",
+      "Q1631107",
+      "Q55594385",
+      "Q4801521",
+      "Q1991869",
+      "Q223393",
+      "Q110912290",
+      "Q589183",
+      "Q6806507",
+      "Q10688145",
+      "Q634509",
+      "Q20203727",
+      "Q861712",
+      "Q667276",
+      "Q2936887",
+      "Q7523718",
+      "Q47433",
+      "Q41207",
+      "Q855973",
+      "Q124301146",
+      "Q47461344",
+      "Q1391417",
+      "Q97498056",
+      "Q2085381"
+    ],
+    "wd_range_classes": [
+      "Q483394",
+      "Q11921029",
+      "Q1406161",
+      "Q1792644",
+      "Q17155032",
+      "Q17955",
+      "Q3030248",
+      "Q53001749",
+      "Q862597",
+      "Q223393",
+      "Q188451",
+      "Q1991869",
+      "Q6806507",
+      "Q4263830",
+      "Q107356781",
+      "Q317623",
+      "Q56055944",
+      "Q64138195",
+      "Q108676140",
+      "Q128093",
+      "Q82753",
+      "Q110562117",
+      "Q10428845",
+      "Q126125231",
+      "Q1078597",
+      "Q47433",
+      "Q37930",
+      "Q25679497",
+      "Q109551565",
+      "Q735",
+      "Q104822033",
+      "Q41207",
+      "Q104624828",
+      "Q116474095",
+      "Q1047113",
+      "Q33260112",
+      "Q136565479"
+    ]
+  },
+  "has part": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P527+permissive-domain+permissive-range",
+    "wd_domain_classes": [],
+    "wd_range_classes": []
+  },
+  "head of government": {
+    "domain": [
+      "LOCATION",
+      "ORGANIZATION"
+    ],
+    "range": [
+      "PERSON"
+    ],
+    "source": "wikidata:P6",
+    "wd_domain_classes": [
+      "Q1048835",
+      "Q7188",
+      "Q640506",
+      "Q524572",
+      "Q1145276",
+      "Q64034456",
+      "Q56061",
+      "Q327333",
+      "Q6866562",
+      "Q1006644"
+    ],
+    "wd_range_classes": [
+      "Q5",
+      "Q95074"
+    ]
+  },
+  "headquarters location": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "LOCATION",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P159+permissive-domain",
+    "wd_domain_classes": [],
+    "wd_range_classes": [
+      "Q618123",
+      "Q3895768",
+      "Q42889",
+      "Q15642541",
+      "Q484652",
+      "Q2221906",
+      "Q811102"
+    ]
+  },
+  "heritage designation": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "LOCATION"
+    ],
+    "source": "wikidata:P1435+permissive-domain",
+    "wd_domain_classes": [],
+    "wd_range_classes": [
+      "Q210272",
+      "Q386426"
+    ]
+  },
+  "instance of": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P31+permissive-domain+permissive-range",
+    "wd_domain_classes": [],
+    "wd_range_classes": []
+  },
+  "instrument": {
+    "domain": [
+      "PERSON",
+      "OTHER",
+      "PROFESSION"
+    ],
+    "range": [
+      "WORK"
+    ],
+    "source": "wikidata:P1303",
+    "wd_domain_classes": [
+      "Q5",
+      "Q115537581",
+      "Q16334295",
+      "Q1278335",
+      "Q24249370",
+      "Q2675537",
+      "Q16145150",
+      "Q66715801",
+      "Q109659725",
+      "Q55155641"
+    ],
+    "wd_range_classes": [
+      "Q34379",
+      "Q29982117",
+      "Q55990535",
+      "Q17172850",
+      "Q18352980",
+      "Q109659725",
+      "Q110295396"
+    ]
+  },
+  "language of work or name": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P407+permissive-domain+permissive-range",
+    "wd_domain_classes": [],
+    "wd_range_classes": [
+      "Q17376908",
+      "Q2092812"
+    ]
+  },
+  "league": {
+    "domain": [
+      "ORGANIZATION",
+      "PERSON",
+      "EVENT"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P118+permissive-range",
+    "wd_domain_classes": [
+      "Q4438121",
+      "Q5",
+      "Q476300",
+      "Q16510064",
+      "Q15229207",
+      "Q18515440",
+      "Q63981919"
+    ],
+    "wd_range_classes": []
+  },
+  "licensed to broadcast to": {
+    "domain": [
+      "ORGANIZATION"
+    ],
+    "range": [
+      "LOCATION"
+    ],
+    "source": "wikidata:P1408",
+    "wd_domain_classes": [
+      "Q15265344"
+    ],
+    "wd_range_classes": [
+      "Q27096213",
+      "Q78758464"
+    ]
+  },
+  "located in or next to body of water": {
+    "domain": [
+      "LOCATION",
+      "WORK"
+    ],
+    "range": [
+      "LOCATION"
+    ],
+    "source": "wikidata:P206",
+    "wd_domain_classes": [
+      "Q618123",
+      "Q8205328",
+      "Q3895768",
+      "Q66661745",
+      "Q27096213",
+      "Q906512",
+      "Q3238337"
+    ],
+    "wd_range_classes": [
+      "Q15324",
+      "Q16500104",
+      "Q44782",
+      "Q16615865"
+    ]
+  },
+  "located in the administrative territorial entity": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "LOCATION"
+    ],
+    "source": "wikidata:P131+permissive-domain",
+    "wd_domain_classes": [],
+    "wd_range_classes": [
+      "Q56061",
+      "Q64034456",
+      "Q30070324",
+      "Q15617994",
+      "Q245016",
+      "Q7275",
+      "Q19953632",
+      "Q269528",
+      "Q852446",
+      "Q15642541"
+    ]
+  },
+  "located on terrain feature": {
+    "domain": [
+      "LOCATION",
+      "EVENT",
+      "WORK"
+    ],
+    "range": [
+      "LOCATION"
+    ],
+    "source": "wikidata:P706",
+    "wd_domain_classes": [
+      "Q2221906",
+      "Q3895768",
+      "Q618123",
+      "Q634",
+      "Q3099911",
+      "Q486972",
+      "Q1322005",
+      "Q1190554",
+      "Q9346860",
+      "Q3238337",
+      "Q271669",
+      "Q4989906",
+      "Q860861",
+      "Q2075301",
+      "Q82794",
+      "Q2451477",
+      "Q10884",
+      "Q27096235"
+    ],
+    "wd_range_classes": [
+      "Q2221906",
+      "Q3895768",
+      "Q618123",
+      "Q82794",
+      "Q9346860",
+      "Q3238337",
+      "Q2451477"
+    ]
+  },
+  "location": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "LOCATION",
+      "EVENT",
+      "ORGANIZATION",
+      "WORK"
+    ],
+    "source": "wikidata:P276+permissive-domain",
+    "wd_domain_classes": [],
+    "wd_range_classes": [
+      "Q17334923",
+      "Q618123",
+      "Q82794",
+      "Q3895768",
+      "Q1656682",
+      "Q47495022",
+      "Q20203388",
+      "Q4130",
+      "Q6999",
+      "Q190463",
+      "Q2133296",
+      "Q4936952",
+      "Q988108",
+      "Q11033",
+      "Q2385804",
+      "Q36133",
+      "Q13226383",
+      "Q2221906",
+      "Q18670171",
+      "Q3238337",
+      "Q118547484",
+      "Q204606",
+      "Q9158768",
+      "Q121141099",
+      "Q41176",
+      "Q7075",
+      "Q166118",
+      "Q43229",
+      "Q853614",
+      "Q13196193",
+      "Q8205328"
+    ]
+  },
+  "location of formation": {
+    "domain": [
+      "ORGANIZATION",
+      "LOCATION",
+      "RELIGION",
+      "EVENT"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P740+permissive-range",
+    "wd_domain_classes": [
+      "Q43229",
+      "Q1964689",
+      "Q618779",
+      "Q215380",
+      "Q2088357",
+      "Q9174",
+      "Q15275719",
+      "Q8436",
+      "Q14623646",
+      "Q49773",
+      "Q2695280",
+      "Q1292119"
+    ],
+    "wd_range_classes": []
+  },
+  "main subject": {
+    "domain": [
+      "WORK",
+      "EVENT",
+      "ORGANIZATION",
+      "LOCATION",
+      "DEGREE"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P921+permissive-range",
+    "wd_domain_classes": [
+      "Q386724",
+      "Q16334295",
+      "Q1302249",
+      "Q483394",
+      "Q1656682",
+      "Q600134",
+      "Q131257",
+      "Q1406161",
+      "Q676586",
+      "Q230788",
+      "Q30612",
+      "Q1964968",
+      "Q23649976",
+      "Q192909",
+      "Q2904148",
+      "Q9388534",
+      "Q2668072",
+      "Q178059",
+      "Q379833",
+      "Q21004260",
+      "Q278485",
+      "Q1298668",
+      "Q101965",
+      "Q17524420",
+      "Q305178",
+      "Q170584",
+      "Q4503831",
+      "Q62090711",
+      "Q4915012",
+      "Q955824",
+      "Q978",
+      "Q134995",
+      "Q362165",
+      "Q3239681",
+      "Q151885",
+      "Q2416723",
+      "Q18593264",
+      "Q21484471",
+      "Q3689704",
+      "Q12139612",
+      "Q13406463",
+      "Q14204246",
+      "Q3026787",
+      "Q108163",
+      "Q16695773",
+      "Q451967",
+      "Q309",
+      "Q131714",
+      "Q20669447",
+      "Q4406616",
+      "Q190539",
+      "Q853614",
+      "Q6576792",
+      "Q1151067",
+      "Q17558136",
+      "Q102345381",
+      "Q110832782",
+      "Q11862829",
+      "Q55421512",
+      "Q177634",
+      "Q2800000",
+      "Q10737",
+      "Q6056746",
+      "Q900406",
+      "Q382996",
+      "Q856592",
+      "Q2684591",
+      "Q628523",
+      "Q464980",
+      "Q4202233",
+      "Q180684",
+      "Q2334719",
+      "Q124301146",
+      "Q26256810",
+      "Q189533",
+      "Q187117",
+      "Q184511",
+      "Q44619",
+      "Q618779",
+      "Q2145290",
+      "Q187931",
+      "Q2472587",
+      "Q43229",
+      "Q358",
+      "Q11016",
+      "Q49848",
+      "Q3249551",
+      "Q11514315",
+      "Q63539947",
+      "Q1128340",
+      "Q5127848",
+      "Q58778",
+      "Q141439867"
+    ],
+    "wd_range_classes": []
+  },
+  "manufacturer": {
+    "domain": [
+      "WORK",
+      "EVENT"
+    ],
+    "range": [
+      "ORGANIZATION",
+      "PERSON",
+      "PROFESSION",
+      "OTHER",
+      "INDUSTRY",
+      "LOCATION"
+    ],
+    "source": "wikidata:P176",
+    "wd_domain_classes": [
+      "Q4406616",
+      "Q10929058",
+      "Q811701",
+      "Q7397",
+      "Q223557",
+      "Q116680403",
+      "Q108352496",
+      "Q87370199",
+      "Q1055307",
+      "Q972011",
+      "Q54933017",
+      "Q13406554",
+      "Q431289"
+    ],
+    "wd_range_classes": [
+      "Q43229",
+      "Q5",
+      "Q95074",
+      "Q14514600",
+      "Q1294787",
+      "Q28640",
+      "Q729",
+      "Q268592",
+      "Q83405",
+      "Q12737077",
+      "Q656720",
+      "Q16521"
+    ]
+  },
+  "member of": {
+    "domain": [
+      "PERSON",
+      "ORGANIZATION",
+      "LOCATION",
+      "PROFESSION"
+    ],
+    "range": [
+      "ORGANIZATION",
+      "LOCATION"
+    ],
+    "source": "wikidata:P463",
+    "wd_domain_classes": [
+      "Q215627",
+      "Q43229",
+      "Q95074",
+      "Q49848",
+      "Q183366",
+      "Q1048835",
+      "Q14623646",
+      "Q13002315",
+      "Q5",
+      "Q63188808",
+      "Q63188683",
+      "Q6857706",
+      "Q214339",
+      "Q13473501",
+      "Q4835091",
+      "Q16334295",
+      "Q3147836",
+      "Q56561357",
+      "Q35127",
+      "Q17197366",
+      "Q4504549",
+      "Q14514600"
+    ],
+    "wd_range_classes": [
+      "Q43229",
+      "Q14623646",
+      "Q16334295",
+      "Q14514600",
+      "Q49773",
+      "Q1729207",
+      "Q16887380",
+      "Q34627",
+      "Q48204",
+      "Q49459835",
+      "Q2638480",
+      "Q55657615",
+      "Q264965",
+      "Q13473501",
+      "Q431603",
+      "Q627272",
+      "Q1900326",
+      "Q56561357",
+      "Q16970"
+    ]
+  },
+  "member of political party": {
+    "domain": [
+      "PERSON"
+    ],
+    "range": [
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P102",
+    "wd_domain_classes": [
+      "Q5",
+      "Q95074",
+      "Q2354171"
+    ],
+    "wd_range_classes": [
+      "Q7278",
+      "Q2738074",
+      "Q1393724",
+      "Q7210356",
+      "Q6138528",
+      "Q15145017"
+    ]
+  },
+  "military branch": {
+    "domain": [
+      "ORGANIZATION",
+      "PERSON",
+      "LOCATION",
+      "OTHER",
+      "PROFESSION",
+      "WORK"
+    ],
+    "range": [
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P241",
+    "wd_domain_classes": [
+      "Q176799",
+      "Q5",
+      "Q18691599",
+      "Q26401003",
+      "Q95074",
+      "Q62934160",
+      "Q16334295",
+      "Q64353859",
+      "Q56019",
+      "Q1196123",
+      "Q329864",
+      "Q728",
+      "Q91197994",
+      "Q6857706",
+      "Q18643213",
+      "Q16631188",
+      "Q2668072",
+      "Q732717",
+      "Q690109",
+      "Q37726",
+      "Q4508",
+      "Q61883"
+    ],
+    "wd_range_classes": [
+      "Q781132",
+      "Q37726",
+      "Q4508",
+      "Q61883",
+      "Q1673189",
+      "Q690109"
+    ]
+  },
+  "military rank": {
+    "domain": [
+      "PERSON",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P410+permissive-range",
+    "wd_domain_classes": [
+      "Q5",
+      "Q95074",
+      "Q26401003",
+      "Q4164871",
+      "Q13002315",
+      "Q4271324"
+    ],
+    "wd_range_classes": [
+      "Q56019",
+      "Q18325582",
+      "Q19476593",
+      "Q137487330"
+    ]
+  },
+  "mother": {
+    "domain": [
+      "PERSON",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "OTHER"
+    ],
+    "source": "wikidata:P25",
+    "wd_domain_classes": [
+      "Q5",
+      "Q21070598",
+      "Q95074",
+      "Q729",
+      "Q178885",
+      "Q284851",
+      "Q20830276",
+      "Q75855169",
+      "Q64520857",
+      "Q64643615",
+      "Q13002315",
+      "Q21070568",
+      "Q4271324",
+      "Q207174",
+      "Q2135501",
+      "Q14514600",
+      "Q26513",
+      "Q2345820",
+      "Q4886",
+      "Q24334299",
+      "Q2239243"
+    ],
+    "wd_range_classes": [
+      "Q5",
+      "Q21070598",
+      "Q95074",
+      "Q729",
+      "Q178885",
+      "Q21070568",
+      "Q13002315",
+      "Q4271324",
+      "Q4886",
+      "Q795052",
+      "Q75855169",
+      "Q112265308"
+    ]
+  },
+  "mountain range": {
+    "domain": [
+      "LOCATION"
+    ],
+    "range": [
+      "LOCATION"
+    ],
+    "source": "wikidata:P4552",
+    "wd_domain_classes": [
+      "Q27096213"
+    ],
+    "wd_range_classes": [
+      "Q46831",
+      "Q1061151",
+      "Q1437459",
+      "Q19850234",
+      "Q1174791",
+      "Q8502",
+      "Q2624046",
+      "Q54050",
+      "Q182676",
+      "Q39816",
+      "Q15787792",
+      "Q740445",
+      "Q131521567",
+      "Q1334383",
+      "Q133056",
+      "Q14524467",
+      "Q10862618",
+      "Q3064051",
+      "Q1400565",
+      "Q2570370",
+      "Q12099220",
+      "Q2082774",
+      "Q2649726",
+      "Q594419",
+      "Q184368",
+      "Q207326",
+      "Q361665",
+      "Q56406134",
+      "Q179049",
+      "Q1851937",
+      "Q110634572",
+      "Q486972"
+    ]
+  },
+  "mouth of the watercourse": {
+    "domain": [
+      "LOCATION"
+    ],
+    "range": [
+      "LOCATION",
+      "WORK"
+    ],
+    "source": "wikidata:P403",
+    "wd_domain_classes": [
+      "Q355304",
+      "Q16338046",
+      "Q24336031",
+      "Q124714",
+      "Q39816",
+      "Q35666",
+      "Q104347069",
+      "Q285451",
+      "Q15324",
+      "Q337567",
+      "Q187971",
+      "Q16500104",
+      "Q63565252"
+    ],
+    "wd_range_classes": [
+      "Q15324",
+      "Q16500104",
+      "Q39816",
+      "Q337567",
+      "Q187971",
+      "Q156849",
+      "Q723748",
+      "Q355304"
+    ]
+  },
+  "movement": {
+    "domain": [
+      "PERSON",
+      "WORK",
+      "LOCATION",
+      "EVENT",
+      "ORGANIZATION"
+    ],
+    "range": [
+      "ORGANIZATION",
+      "WORK",
+      "EVENT"
+    ],
+    "source": "wikidata:P135",
+    "wd_domain_classes": [
+      "Q5",
+      "Q386724",
+      "Q16334295",
+      "Q811979",
+      "Q2668072",
+      "Q17489659",
+      "Q1656682",
+      "Q95074",
+      "Q464980",
+      "Q3533467",
+      "Q483394"
+    ],
+    "wd_range_classes": [
+      "Q3533467",
+      "Q1387659",
+      "Q2738074",
+      "Q2198855",
+      "Q49773",
+      "Q2915955",
+      "Q28820001",
+      "Q968159",
+      "Q1792644",
+      "Q2054106",
+      "Q1826286",
+      "Q7254446",
+      "Q12765852",
+      "Q17399019",
+      "Q264965",
+      "Q3233738",
+      "Q85175122",
+      "Q12909644",
+      "Q10274693"
+    ]
+  },
+  "nominated for": {
+    "domain": [
+      "PERSON",
+      "ORGANIZATION",
+      "WORK",
+      "OTHER",
+      "EVENT"
+    ],
+    "range": [
+      "EVENT"
+    ],
+    "source": "wikidata:P1411",
+    "wd_domain_classes": [
+      "Q5",
+      "Q43229",
+      "Q386724",
+      "Q26401003",
+      "Q16334295",
+      "Q1190554"
+    ],
+    "wd_range_classes": [
+      "Q618779",
+      "Q4220917",
+      "Q378427",
+      "Q38033430",
+      "Q4504495",
+      "Q1046088",
+      "Q18772252"
+    ]
+  },
+  "notable work": {
+    "domain": [
+      "PERSON",
+      "OTHER",
+      "ORGANIZATION"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P800+permissive-range",
+    "wd_domain_classes": [
+      "Q5",
+      "Q16334295",
+      "Q95074",
+      "Q14514600",
+      "Q61002",
+      "Q52688389",
+      "Q968159",
+      "Q431289",
+      "Q107307291",
+      "Q43229",
+      "Q115537581",
+      "Q193564",
+      "Q170584",
+      "Q41298"
+    ],
+    "wd_range_classes": []
+  },
+  "occupant": {
+    "domain": [
+      "LOCATION",
+      "WORK",
+      "ORGANIZATION"
+    ],
+    "range": [
+      "ORGANIZATION",
+      "PERSON",
+      "LOCATION",
+      "EVENT",
+      "WORK"
+    ],
+    "source": "wikidata:P466",
+    "wd_domain_classes": [
+      "Q811979",
+      "Q82794",
+      "Q13226383",
+      "Q39546",
+      "Q58778",
+      "Q2775969",
+      "Q63959448",
+      "Q3895768",
+      "Q18247357",
+      "Q699405",
+      "Q43229",
+      "Q486972"
+    ],
+    "wd_range_classes": [
+      "Q43229",
+      "Q5",
+      "Q16334295",
+      "Q13226383",
+      "Q14514600",
+      "Q95074",
+      "Q14623646",
+      "Q4164871",
+      "Q15707583",
+      "Q63982911",
+      "Q1664720",
+      "Q70363582",
+      "Q21871294",
+      "Q39659371",
+      "Q18674739",
+      "Q841654",
+      "Q55097243",
+      "Q15893266",
+      "Q10387680",
+      "Q2668072",
+      "Q24334685"
+    ]
+  },
+  "occupation": {
+    "domain": [
+      "PERSON",
+      "OTHER"
+    ],
+    "range": [
+      "PROFESSION"
+    ],
+    "source": "wikidata:P106",
+    "wd_domain_classes": [
+      "Q215627",
+      "Q21070598",
+      "Q95074",
+      "Q5",
+      "Q11012",
+      "Q11415657",
+      "Q26401003",
+      "Q228534",
+      "Q10855152",
+      "Q61002",
+      "Q3046146"
+    ],
+    "wd_range_classes": [
+      "Q12737077",
+      "Q28640",
+      "Q17305127",
+      "Q192581",
+      "Q47472256",
+      "Q480319",
+      "Q4164871",
+      "Q115580828",
+      "Q63188808",
+      "Q63188683",
+      "Q21451536",
+      "Q228534",
+      "Q108377574",
+      "Q4504549",
+      "Q9363889"
+    ]
+  },
+  "operating system": {
+    "domain": [
+      "WORK"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P306+permissive-range",
+    "wd_domain_classes": [
+      "Q7397",
+      "Q1183543",
+      "Q9143",
+      "Q7889",
+      "Q16070115",
+      "Q17451",
+      "Q55990535",
+      "Q122967152",
+      "Q136353271",
+      "Q124030841"
+    ],
+    "wd_range_classes": [
+      "Q9135"
+    ]
+  },
+  "operator": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "ORGANIZATION",
+      "PERSON",
+      "PROFESSION",
+      "LOCATION",
+      "INDUSTRY"
+    ],
+    "source": "wikidata:P137+permissive-domain",
+    "wd_domain_classes": [],
+    "wd_range_classes": [
+      "Q43229",
+      "Q14623646",
+      "Q5",
+      "Q16334295",
+      "Q95074",
+      "Q12737077",
+      "Q170584",
+      "Q215627",
+      "Q56061",
+      "Q15911314",
+      "Q18325841",
+      "Q390516",
+      "Q39614",
+      "Q6881511",
+      "Q1248784",
+      "Q155076",
+      "Q15343039",
+      "Q268592",
+      "Q4830453",
+      "Q35127",
+      "Q327333",
+      "Q19967801",
+      "Q29933786",
+      "Q106559804"
+    ]
+  },
+  "original language of film or TV show": {
+    "domain": [
+      "WORK"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P364+permissive-range",
+    "wd_domain_classes": [
+      "Q2431196",
+      "Q17558136",
+      "Q732577"
+    ],
+    "wd_range_classes": [
+      "Q17376908"
+    ]
+  },
+  "original network": {
+    "domain": [
+      "WORK",
+      "EVENT"
+    ],
+    "range": [
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P449",
+    "wd_domain_classes": [
+      "Q386724",
+      "Q1656682",
+      "Q270389"
+    ],
+    "wd_range_classes": [
+      "Q15265344",
+      "Q14350",
+      "Q1616075",
+      "Q66547481",
+      "Q59152282",
+      "Q721830",
+      "Q2001305",
+      "Q841645",
+      "Q60153785",
+      "Q1254874",
+      "Q141683"
+    ]
+  },
+  "owned by": {
+    "domain": [
+      "ORGANIZATION",
+      "LOCATION",
+      "OTHER",
+      "EVENT",
+      "PERSON"
+    ],
+    "range": [
+      "PERSON",
+      "ORGANIZATION",
+      "LOCATION"
+    ],
+    "source": "wikidata:P127",
+    "wd_domain_classes": [
+      "Q43229",
+      "Q6671777",
+      "Q4406616",
+      "Q26401003",
+      "Q473972",
+      "Q167270",
+      "Q1656682",
+      "Q14897293",
+      "Q24334685",
+      "Q19913602",
+      "Q39201",
+      "Q5",
+      "Q4835091",
+      "Q431289",
+      "Q340169",
+      "Q853614",
+      "Q3604202",
+      "Q726",
+      "Q16686448",
+      "Q47311934",
+      "Q1417728",
+      "Q61961344"
+    ],
+    "wd_range_classes": [
+      "Q215627",
+      "Q43229",
+      "Q115537581",
+      "Q14623646",
+      "Q56061",
+      "Q874405",
+      "Q3778211",
+      "Q34627",
+      "Q4233718",
+      "Q102345381",
+      "Q3914",
+      "Q61002",
+      "Q2001305",
+      "Q14514600",
+      "Q44613",
+      "Q15642541",
+      "Q16334295"
+    ]
+  },
+  "part of": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P361+permissive-domain+permissive-range",
+    "wd_domain_classes": [],
+    "wd_range_classes": []
+  },
+  "participant": {
+    "domain": [
+      "EVENT",
+      "ORGANIZATION",
+      "WORK",
+      "PERSON",
+      "LOCATION"
+    ],
+    "range": [
+      "LOCATION"
+    ],
+    "source": "wikidata:P710",
+    "wd_domain_classes": [
+      "Q1190554",
+      "Q14136353",
+      "Q24336466",
+      "Q170584",
+      "Q54933017",
+      "Q124964",
+      "Q321839",
+      "Q4539",
+      "Q3249551",
+      "Q500834",
+      "Q13406554",
+      "Q178651",
+      "Q5",
+      "Q16334295",
+      "Q58778",
+      "Q70990126",
+      "Q24634210",
+      "Q21191270",
+      "Q718893",
+      "Q53706",
+      "Q223642"
+    ],
+    "wd_range_classes": [
+      "Q24229398",
+      "Q16334298",
+      "Q795052",
+      "Q115537581",
+      "Q24334685",
+      "Q16887380",
+      "Q3024240"
+    ]
+  },
+  "participant of": {
+    "domain": [
+      "PERSON",
+      "EVENT",
+      "ORGANIZATION",
+      "WORK",
+      "OTHER",
+      "LOCATION"
+    ],
+    "range": [
+      "EVENT",
+      "WORK",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P1344",
+    "wd_domain_classes": [
+      "Q5",
+      "Q16334295",
+      "Q16391167",
+      "Q26887428",
+      "Q12973014",
+      "Q7397",
+      "Q68",
+      "Q95074",
+      "Q14514600",
+      "Q17537576",
+      "Q26401003",
+      "Q215627",
+      "Q584529",
+      "Q3914",
+      "Q43229",
+      "Q13226383",
+      "Q2239243"
+    ],
+    "wd_range_classes": [
+      "Q1190554",
+      "Q386724",
+      "Q43229",
+      "Q101965",
+      "Q14136353",
+      "Q1914636",
+      "Q1656682"
+    ]
+  },
+  "participating team": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P1923+permissive-domain",
+    "wd_domain_classes": [],
+    "wd_range_classes": [
+      "Q12973014",
+      "Q847017",
+      "Q46135307",
+      "Q43229"
+    ]
+  },
+  "performer": {
+    "domain": [
+      "WORK",
+      "EVENT",
+      "PERSON"
+    ],
+    "range": [
+      "PERSON",
+      "ORGANIZATION",
+      "OTHER"
+    ],
+    "source": "wikidata:P175",
+    "wd_domain_classes": [
+      "Q386724",
+      "Q1656682",
+      "Q95074",
+      "Q1707847",
+      "Q98216532",
+      "Q115668795",
+      "Q7725310",
+      "Q14514600",
+      "Q124301146",
+      "Q21070568",
+      "Q141245227",
+      "Q134612820"
+    ],
+    "wd_range_classes": [
+      "Q5",
+      "Q2088357",
+      "Q15632617",
+      "Q60614352",
+      "Q215380",
+      "Q6619719",
+      "Q15711870",
+      "Q15773317",
+      "Q59755569",
+      "Q18510489",
+      "Q2416217",
+      "Q15267437",
+      "Q66481339",
+      "Q65209857",
+      "Q14514600",
+      "Q12973014",
+      "Q2393314",
+      "Q5354754",
+      "Q2013644",
+      "Q26401003",
+      "Q729",
+      "Q1569167",
+      "Q2742167",
+      "Q84310035",
+      "Q550596"
+    ]
+  },
+  "place served by transport hub": {
+    "domain": [
+      "LOCATION"
+    ],
+    "range": [
+      "LOCATION",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P931",
+    "wd_domain_classes": [
+      "Q376799"
+    ],
+    "wd_range_classes": [
+      "Q486972",
+      "Q4835091",
+      "Q2169973",
+      "Q82794"
+    ]
+  },
+  "platform": {
+    "domain": [
+      "WORK",
+      "EVENT",
+      "ORGANIZATION",
+      "LANGUAGE"
+    ],
+    "range": [
+      "WORK",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P400",
+    "wd_domain_classes": [
+      "Q40056",
+      "Q7397",
+      "Q28114058",
+      "Q40213094",
+      "Q7889",
+      "Q416",
+      "Q192851",
+      "Q7927908",
+      "Q47146",
+      "Q165194",
+      "Q11253473",
+      "Q222910",
+      "Q904997",
+      "Q128093",
+      "Q116741534",
+      "Q535741",
+      "Q1137109",
+      "Q5256141",
+      "Q12538706",
+      "Q62651817",
+      "Q97180164",
+      "Q80831",
+      "Q8513",
+      "Q2988681",
+      "Q5610543",
+      "Q210167",
+      "Q125251322",
+      "Q15220419",
+      "Q173167",
+      "Q317623",
+      "Q193395",
+      "Q216158",
+      "Q629206",
+      "Q109324699",
+      "Q135911675"
+    ],
+    "wd_range_classes": [
+      "Q241317",
+      "Q60644919",
+      "Q6368",
+      "Q1406",
+      "Q14116",
+      "Q13522376",
+      "Q388",
+      "Q170434",
+      "Q600659",
+      "Q26884850",
+      "Q8076",
+      "Q48493",
+      "Q9135",
+      "Q205020",
+      "Q173212",
+      "Q4202064",
+      "Q2916479",
+      "Q102676349"
+    ]
+  },
+  "position held": {
+    "domain": [
+      "PERSON",
+      "OTHER",
+      "ORGANIZATION"
+    ],
+    "range": [
+      "ORGANIZATION",
+      "PROFESSION"
+    ],
+    "source": "wikidata:P39",
+    "wd_domain_classes": [
+      "Q5",
+      "Q21070598",
+      "Q95074",
+      "Q4271324",
+      "Q64520857",
+      "Q64643615",
+      "Q75855169",
+      "Q26401003",
+      "Q43229",
+      "Q228534",
+      "Q135106502"
+    ],
+    "wd_range_classes": [
+      "Q4164871",
+      "Q21451536",
+      "Q355567",
+      "Q3687335",
+      "Q81752537",
+      "Q11452125",
+      "Q16631188",
+      "Q21114371",
+      "Q28640",
+      "Q114962596",
+      "Q713223",
+      "Q480319",
+      "Q124467070",
+      "Q124515690",
+      "Q124466786",
+      "Q136649946",
+      "Q3139516",
+      "Q20006438",
+      "Q138024519",
+      "Q1221126"
+    ]
+  },
+  "position played on team / speciality": {
+    "domain": [
+      "PERSON"
+    ],
+    "range": [
+      "PROFESSION"
+    ],
+    "source": "wikidata:P413",
+    "wd_domain_classes": [
+      "Q5",
+      "Q95074"
+    ],
+    "wd_range_classes": [
+      "Q1781513",
+      "Q2312410"
+    ]
+  },
+  "publisher": {
+    "domain": [
+      "WORK"
+    ],
+    "range": [
+      "ORGANIZATION",
+      "LOCATION",
+      "WORK"
+    ],
+    "source": "wikidata:P123",
+    "wd_domain_classes": [
+      "Q49848",
+      "Q80793969",
+      "Q95107111",
+      "Q374814",
+      "Q7397",
+      "Q286583",
+      "Q17538690",
+      "Q11410",
+      "Q105543609",
+      "Q7058673",
+      "Q115473170",
+      "Q116779426",
+      "Q62651817",
+      "Q3331189",
+      "Q97180164",
+      "Q124030631",
+      "Q106140535",
+      "Q1980247",
+      "Q732577",
+      "Q49094714",
+      "Q7725310",
+      "Q1348645",
+      "Q8274",
+      "Q47461344",
+      "Q2122677",
+      "Q12139612",
+      "Q91828006",
+      "Q17489659"
+    ],
+    "wd_range_classes": [
+      "Q106559804",
+      "Q2085381",
+      "Q7554349",
+      "Q11032",
+      "Q1002697",
+      "Q35127",
+      "Q152416",
+      "Q2516866",
+      "Q431289",
+      "Q14350",
+      "Q56061",
+      "Q327333",
+      "Q2001305",
+      "Q17558136",
+      "Q1428914",
+      "Q895526",
+      "Q107655869",
+      "Q2608849",
+      "Q4671277",
+      "Q22222786",
+      "Q1298668",
+      "Q170584",
+      "Q72588"
+    ]
+  },
+  "record label": {
+    "domain": [
+      "ORGANIZATION",
+      "PERSON",
+      "WORK"
+    ],
+    "range": [
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P264",
+    "wd_domain_classes": [
+      "Q2088357",
+      "Q5",
+      "Q7725310",
+      "Q115669410",
+      "Q193977",
+      "Q106833",
+      "Q3331189",
+      "Q234870",
+      "Q11664239",
+      "Q215380",
+      "Q105815710",
+      "Q108346082",
+      "Q482994",
+      "Q7889",
+      "Q55155641",
+      "Q134556"
+    ],
+    "wd_range_classes": [
+      "Q18127",
+      "Q210167",
+      "Q1137109",
+      "Q1542343"
+    ]
+  },
+  "religion": {
+    "domain": [
+      "PERSON",
+      "ORGANIZATION",
+      "LOCATION",
+      "EVENT",
+      "WORK",
+      "ETHNICITY",
+      "LANGUAGE",
+      "PROFESSION"
+    ],
+    "range": [
+      "ORGANIZATION",
+      "LOCATION"
+    ],
+    "source": "wikidata:P140",
+    "wd_domain_classes": [
+      "Q5",
+      "Q14897293",
+      "Q43229",
+      "Q27096235",
+      "Q16334295",
+      "Q4164871",
+      "Q2110808",
+      "Q628455",
+      "Q17524420",
+      "Q838948",
+      "Q21070568",
+      "Q375011",
+      "Q192909",
+      "Q24334685",
+      "Q60469796",
+      "Q208145",
+      "Q40953",
+      "Q23847174",
+      "Q8205328",
+      "Q47848",
+      "Q2728698",
+      "Q178885",
+      "Q2627975",
+      "Q3071477",
+      "Q1131696",
+      "Q189819",
+      "Q223393",
+      "Q12910132",
+      "Q1640824",
+      "Q130261297",
+      "Q76994618",
+      "Q108788952",
+      "Q2054106",
+      "Q134601875",
+      "Q839470",
+      "Q63367731",
+      "Q13414953",
+      "Q4504549",
+      "Q1065742"
+    ],
+    "wd_range_classes": [
+      "Q71966963",
+      "Q4392985",
+      "Q1530022",
+      "Q16334295",
+      "Q17364638",
+      "Q211606",
+      "Q1826286"
+    ]
+  },
+  "residence": {
+    "domain": [
+      "PERSON",
+      "OTHER",
+      "ORGANIZATION"
+    ],
+    "range": [
+      "LOCATION",
+      "WORK",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P551",
+    "wd_domain_classes": [
+      "Q5",
+      "Q95074",
+      "Q622852",
+      "Q20643955",
+      "Q57812559",
+      "Q21070568",
+      "Q16334295",
+      "Q14514600",
+      "Q729",
+      "Q4671277",
+      "Q4271324",
+      "Q13002315",
+      "Q340069",
+      "Q217438",
+      "Q33829",
+      "Q1387388",
+      "Q24334685"
+    ],
+    "wd_range_classes": [
+      "Q2221906",
+      "Q3895768",
+      "Q82794",
+      "Q41176",
+      "Q1497375",
+      "Q699405",
+      "Q3947",
+      "Q837142",
+      "Q3238337",
+      "Q27686",
+      "Q19860854"
+    ]
+  },
+  "said to be the same as": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P460+permissive-domain+permissive-range",
+    "wd_domain_classes": [],
+    "wd_range_classes": []
+  },
+  "screenwriter": {
+    "domain": [
+      "WORK"
+    ],
+    "range": [
+      "PERSON",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P58",
+    "wd_domain_classes": [
+      "Q386724"
+    ],
+    "wd_range_classes": [
+      "Q5",
+      "Q3046146",
+      "Q10648343",
+      "Q16017119",
+      "Q16334295",
+      "Q14073567"
+    ]
+  },
+  "sibling": {
+    "domain": [
+      "PERSON",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "OTHER"
+    ],
+    "source": "wikidata:P3373",
+    "wd_domain_classes": [
+      "Q5",
+      "Q95074",
+      "Q21070598",
+      "Q4271324",
+      "Q178885",
+      "Q64520857",
+      "Q21070568",
+      "Q64643615",
+      "Q75855169",
+      "Q57812611",
+      "Q26513",
+      "Q14514600",
+      "Q795052",
+      "Q16979650",
+      "Q115537581",
+      "Q10855152"
+    ],
+    "wd_range_classes": [
+      "Q215627",
+      "Q95074",
+      "Q21070598",
+      "Q4271324",
+      "Q178885",
+      "Q26843",
+      "Q57812611",
+      "Q876500",
+      "Q36341",
+      "Q144",
+      "Q726",
+      "Q839769",
+      "Q301676",
+      "Q26401003",
+      "Q26513",
+      "Q2345820",
+      "Q115537581",
+      "Q16979650",
+      "Q795052",
+      "Q117463454",
+      "Q14514600"
+    ]
+  },
+  "sport": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P641+permissive-domain+permissive-range",
+    "wd_domain_classes": [],
+    "wd_range_classes": [
+      "Q349",
+      "Q20037067",
+      "Q31629",
+      "Q11417",
+      "Q11410"
+    ]
+  },
+  "sports season of league or competition": {
+    "domain": [
+      "EVENT"
+    ],
+    "range": [
+      "EVENT"
+    ],
+    "source": "wikidata:P3450",
+    "wd_domain_classes": [
+      "Q114609228"
+    ],
+    "wd_range_classes": [
+      "Q13406554",
+      "Q16510064"
+    ]
+  },
+  "spouse": {
+    "domain": [
+      "PERSON"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P26+permissive-range",
+    "wd_domain_classes": [
+      "Q95074",
+      "Q215627",
+      "Q5",
+      "Q4271324",
+      "Q13002315",
+      "Q21070568",
+      "Q340069"
+    ],
+    "wd_range_classes": []
+  },
+  "subsidiary": {
+    "domain": [
+      "ORGANIZATION"
+    ],
+    "range": [
+      "ORGANIZATION",
+      "LOCATION"
+    ],
+    "source": "wikidata:P355",
+    "wd_domain_classes": [
+      "Q43229",
+      "Q14623646",
+      "Q170584",
+      "Q167037",
+      "Q10387680",
+      "Q106559804",
+      "Q13235160",
+      "Q783794",
+      "Q4830453"
+    ],
+    "wd_range_classes": [
+      "Q43229",
+      "Q14623646",
+      "Q170584",
+      "Q13226383",
+      "Q10387680",
+      "Q13235160",
+      "Q4830453",
+      "Q783794"
+    ]
+  },
+  "successful candidate": {
+    "domain": [
+      "EVENT"
+    ],
+    "range": [
+      "PERSON",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P991",
+    "wd_domain_classes": [
+      "Q40231"
+    ],
+    "wd_range_classes": [
+      "Q5",
+      "Q7210356"
+    ]
+  },
+  "taxon rank": {
+    "domain": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P105+permissive-domain+permissive-range",
+    "wd_domain_classes": [
+      "Q16521",
+      "Q15707583"
+    ],
+    "wd_range_classes": [
+      "Q427626"
+    ]
+  },
+  "tributary": {
+    "domain": [
+      "LOCATION"
+    ],
+    "range": [
+      "LOCATION"
+    ],
+    "source": "wikidata:P974",
+    "wd_domain_classes": [
+      "Q355304",
+      "Q16338046"
+    ],
+    "wd_range_classes": [
+      "Q355304",
+      "Q16338046",
+      "Q124714",
+      "Q187971"
+    ]
+  },
+  "voice type": {
+    "domain": [
+      "PERSON"
+    ],
+    "range": [
+      "PERSON",
+      "LOCATION",
+      "ORGANIZATION",
+      "WORK",
+      "EVENT",
+      "PROFESSION",
+      "ETHNICITY",
+      "LANGUAGE",
+      "RELIGION",
+      "INDUSTRY",
+      "DEGREE",
+      "OTHER"
+    ],
+    "source": "wikidata:P412+permissive-range",
+    "wd_domain_classes": [
+      "Q5",
+      "Q95074",
+      "Q1707847",
+      "Q14514600"
+    ],
+    "wd_range_classes": [
+      "Q1063547"
+    ]
+  },
+  "winner": {
+    "domain": [
+      "WORK",
+      "EVENT"
+    ],
+    "range": [
+      "PERSON",
+      "ORGANIZATION",
+      "LOCATION",
+      "OTHER",
+      "WORK",
+      "EVENT"
+    ],
+    "source": "wikidata:P1346",
+    "wd_domain_classes": [
+      "Q476300",
+      "Q3464665",
+      "Q15707532",
+      "Q13406554",
+      "Q18608583",
+      "Q106594095",
+      "Q526877",
+      "Q618779",
+      "Q2020153",
+      "Q4504495"
+    ],
+    "wd_range_classes": [
+      "Q5",
+      "Q43229",
+      "Q6266",
+      "Q5107",
+      "Q726",
+      "Q1002697",
+      "Q1364192",
+      "Q486972",
+      "Q56061",
+      "Q95074",
+      "Q571",
+      "Q1004",
+      "Q386724",
+      "Q1656682"
+    ]
+  },
+  "work location": {
+    "domain": [
+      "PERSON",
+      "PROFESSION",
+      "ORGANIZATION"
+    ],
+    "range": [
+      "LOCATION",
+      "WORK",
+      "ORGANIZATION"
+    ],
+    "source": "wikidata:P937",
+    "wd_domain_classes": [
+      "Q215627",
+      "Q134601727",
+      "Q1747829",
+      "Q192581",
+      "Q4164871",
+      "Q1047113",
+      "Q28640",
+      "Q228534",
+      "Q43229",
+      "Q170584",
+      "Q95074"
+    ],
+    "wd_range_classes": [
+      "Q17334923",
+      "Q3895768",
+      "Q1229765",
+      "Q56061",
+      "Q2221906",
+      "Q628858",
+      "Q41176",
+      "Q486972",
+      "Q82794",
+      "Q43229",
+      "Q2385804"
+    ]
+  }
+}

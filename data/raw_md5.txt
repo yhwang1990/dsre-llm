@@ -1,0 +1,8 @@
+# md5 of the raw files the splits were built from (paths relative to $DSRE_ROOT/data)
+0ea9bb53e7683d5fef79299f4f2affed  nyt10/nyt10_train.txt
+e8b621560ef3785f67c968a19be7066f  nyt10/nyt10_test.txt
+65a07a88d4e2daa8a93e9e7156809eda  wiki80/wiki80_train.txt
+a2625f0d73c9f2b9917f684d06869535  wiki80/wiki80_val.txt
+5be5d39107cb574f35637dab8b82c29b  processed/gids_train.jsonl
+6fb508ef7d38661db258601be355a624  processed/gids_dev.jsonl
+d1304297573d9d03f213382ccdfb7720  processed/gids_test.jsonl
